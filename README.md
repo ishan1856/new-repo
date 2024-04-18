@@ -9,7 +9,9 @@ Firebase Storage <br>
 React-Dom <br>
 React Redux <br>
 Stripe payment <br>
-Features <br>
+
+
+## Features <br>
 Login and Logout <br>
 Add to cart <br>
 Remove from cart <br>
@@ -20,4 +22,4 @@ Neat and clean UI <br>
 Run the following commands <br>
 npm i <br>
 npm run start <br>
-Hope you liked this project, dont forget to ⭐ the repo. <br>
+### Hope you liked this project, dont forget to ⭐ the repo. <br>
