@@ -2,7 +2,7 @@
 ### Project Link - https://alanbinu-ecommerce.web.app/
 
 ## Tech We Used
-ReactJs `<br>`
+ReactJs <br>
 Firebase Hosting
 Firebase Auth
 Firebase Storage
