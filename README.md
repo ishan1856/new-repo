@@ -3,21 +3,21 @@
 
 ## Tech We Used
 ReactJs <br>
-Firebase Hosting
-Firebase Auth
-Firebase Storage
-React-Dom
-React Redux
-Stripe payment
-Features
-Login and Logout
-Add to cart
-Remove from cart
-Payment
-Neat and clean UI
+Firebase Hosting <br>
+Firebase Auth <br>
+Firebase Storage <br>
+React-Dom <br>
+React Redux <br>
+Stripe payment <br>
+Features <br>
+Login and Logout <br>
+Add to cart <br>
+Remove from cart <br>
+Payment <br>
+Neat and clean UI <br>
 
 ### Steps to run in your machine
-Run the following commands
-npm i
-npm run start
-Hope you liked this project, dont forget to ⭐ the repo.
+Run the following commands <br>
+npm i <br>
+npm run start <br>
+Hope you liked this project, dont forget to ⭐ the repo. <br>
